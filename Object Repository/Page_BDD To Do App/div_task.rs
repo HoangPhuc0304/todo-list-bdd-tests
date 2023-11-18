@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_task</name>
+   <tag></tag>
+   <elementGuidId>2ba3604a-688c-4abb-b7c1-361aac7cd416</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[3]/ul</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a1f752cf-99d9-47cc-aee5-581e05b9df23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> flex items-center space-x-3</value>
+      <webElementGuid>05336a3f-f327-4255-92ac-3425c81daff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD</value>
+      <webElementGuid>74d0b9b9-870b-46c4-8a33-98d06874e67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;hero bg-gray-100 h-screen md:min-h-[700px]  w-full m-auto flex flex-col items-center transition-all duration-500&quot;]/div[@class=&quot;flex flex-col space-y-6 w-[600px] md:w-[100%] z-10 p-4 text-black&quot;]/div[@class=&quot;scroll bg-white w-full h-[400px] md:h-[500px] px-2 overflow-y-scroll rounded-md shadow-lg relative transition-all duration-500&quot;]/ul[@class=&quot;&quot;]/li[@class=&quot;mb-1 border-b border-gray-300 space-y-2&quot;]/div[@class=&quot;flex items-center justify-between p-4 px-3&quot;]/div[@class=&quot;flex items-center space-x-3&quot;]</value>
+      <webElementGuid>53418d19-fb64-4691-a85e-39aee2d63183</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/ul/li[2]/div/div</value>
+      <webElementGuid>5956e853-161e-4ab8-9482-7da25f420710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEE'])[1]/following::div[3]</value>
+      <webElementGuid>fc48c5e3-271b-4167-baf0-d455c766451d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear all tasks'])[1]/following::div[5]</value>
+      <webElementGuid>e6e46abd-91c8-4b87-8f3b-5351a9870ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div</value>
+      <webElementGuid>0a94faee-f021-49fd-85b3-e9cb30a931c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ADD' or . = 'ADD')]</value>
+      <webElementGuid>9cfca504-67b9-4130-abbf-f89b27db590d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

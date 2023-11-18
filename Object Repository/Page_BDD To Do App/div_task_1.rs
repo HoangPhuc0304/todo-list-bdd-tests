@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_task_1</name>
+   <tag></tag>
+   <elementGuidId>d81f399b-1227-44e6-b306-9f8b6dea5d2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#root > div > div > div.scroll.bg-white.w-full.h-\[400px\].md\:h-\[500px\].px-2.overflow-y-scroll.rounded-md.shadow-lg.relative.transition-all.duration-500 > ul > li:nth-child(0)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div[3]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'ADD' or . = 'ADD')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ca2bc09c-4732-4d7d-8a75-c5ed1ff492bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> flex items-center space-x-3</value>
+      <webElementGuid>c960cdfe-7273-466e-9c41-581ede5c19d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD</value>
+      <webElementGuid>3fc84904-9123-45b9-9cf4-4fda4c1327af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;hero bg-gray-100 h-screen md:min-h-[700px]  w-full m-auto flex flex-col items-center transition-all duration-500&quot;]/div[@class=&quot;flex flex-col space-y-6 w-[600px] md:w-[100%] z-10 p-4 text-black&quot;]/div[@class=&quot;scroll bg-white w-full h-[400px] md:h-[500px] px-2 overflow-y-scroll rounded-md shadow-lg relative transition-all duration-500&quot;]/ul[@class=&quot;&quot;]/li[@class=&quot;mb-1 border-b border-gray-300 space-y-2&quot;]/div[@class=&quot;flex items-center justify-between p-4 px-3&quot;]/div[@class=&quot;flex items-center space-x-3&quot;]</value>
+      <webElementGuid>c5753e22-07d3-4f9d-9266-f90993bd0f51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[3]/ul/li[2]/div/div</value>
+      <webElementGuid>b3b4b53b-4b62-4702-96ec-16f9a2e0d150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DEE'])[1]/following::div[3]</value>
+      <webElementGuid>cc3b7de9-8654-4329-a78a-4b7cdd0e4a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear all tasks'])[1]/following::div[5]</value>
+      <webElementGuid>cc1ef3ba-cb3e-424d-a4ed-62e3ef196f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div</value>
+      <webElementGuid>afa141e1-9cac-4d15-b2a1-5cb0f85ad47e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ADD' or . = 'ADD')]</value>
+      <webElementGuid>02ada422-63ca-45b3-8b3f-82dd53aa0174</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
